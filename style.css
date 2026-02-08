@@ -36,16 +36,16 @@
 	color: black;
 	top: 50%;
 	left: 50%;
-	background-color: rgb(16, 121, 241);
-	height: 10vh;
-	width: 28vw;
-	border: 2px solid rgb(44, 44, 44);
 	font-size: 3.5em;
-	border-radius: 10px;
 	transform: translate(-50%, -50%);
 	text-align: center;
 }
 .messageStyle{
+	background-color: rgb(16, 121, 241);
+	height: 10vh;
+	width: 28vw;
+	border-radius: 10px;
+	border: 2px solid rgb(44, 44, 44);
     position: absolute;
     gap: 100px;
 }
