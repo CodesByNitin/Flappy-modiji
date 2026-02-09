@@ -2,8 +2,7 @@ let move_speed = 3, grativy = 0.5;
 let bird = document.querySelector('.bird');
 let img = document.getElementById('bird-1');
 let sound_point = new Audio('Audio/wahmodijii.mp3');
-let sound_die = new Audio('Audio/khtam.mp3');
-
+let sound_die = new Audio('Audio/die.mp3');
 // getting bird element properties
 let bird_props = bird.getBoundingClientRect();
 

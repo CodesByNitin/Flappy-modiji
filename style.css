@@ -27,9 +27,9 @@
 	left: 100vw;
 	height: 70vh;
 	width: 6vw;
-	background:url(/background/bg.png);
-	border: 5px solid black;
-}
+	background:url(/background/Rahul_Gandhi.png) center center;
+	border: 2px solid rgb(94, 94, 94);
+	}
 .message {
 	position: absolute;
 	z-index: 10;
